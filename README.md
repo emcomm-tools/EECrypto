@@ -19,11 +19,11 @@ EECrypto takes plain text and a passphrase, and produces a hex-encoded cipher te
 
 EECrypto was originally developed by Sylvain Deguire (VA2OPS) as a personal encryption project:
 
-1. **officeEnigma** (2013) — C# Windows Forms desktop application
-2. **mobilEEnigma** (2014) — BlackBerry 10 C++/Cascades mobile app, published on BlackBerry World
+1. **mobilEEnigma** — First published on BlackBerry (Java), then ported to iPhone 3 (Objective-C) and Android that same year
+2. **officEEnigma** — Desktop version for macOS, Windows and Linux
 3. **ET-Crypto** (2026) — Native Linux C++/Qt5 port for the EmComm-Tools project
 
-The core algorithm and all S-box/key table constants have remained identical across all three versions, ensuring cross-compatibility — text ciphered on any version can be deciphered on any other.
+The core algorithm and all S-box/key table constants have remained identical across all versions, ensuring cross-compatibility — text ciphered on any version can be deciphered on any other.
 
 ## Building
 
