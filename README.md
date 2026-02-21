@@ -19,7 +19,7 @@ EECrypto takes plain text and a passphrase, and produces a hex-encoded cipher te
 
 EECrypto was originally developed by Sylvain Deguire (VA2OPS) as a personal encryption project:
 
-1. **mobilEEnigma** — First published on BlackBerry (Java), then ported to iPhone 3 (Objective-C) and Android that same year
+1. **mobilEEnigma** (2008) — First published on BlackBerry (Java), then ported to iPhone 3G (Objective-C) and Android that same year
 2. **officEEnigma** — Desktop version for macOS, Windows and Linux
 3. **ET-Crypto** (2026) — Native Linux C++/Qt5 port for the EmComm-Tools project
 
