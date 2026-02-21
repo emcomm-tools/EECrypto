@@ -131,7 +131,9 @@ void MainWindow::onAbout()
         "callsign as the passphrase.</p>"
         "<hr>"
         "<p>The EECrypto algorithm source code is open and publicly "
-        "available on GitHub.</p>"
+        "available on GitHub:<br>"
+        "<a href=\"https://github.com/emcomm-tools/EECrypto\">"
+        "https://github.com/emcomm-tools/EECrypto</a></p>"
         "<hr>"
         "<p><b>Author:</b> Sylvain Deguire (VA2OPS)<br>"
         "<b>Version:</b> 1.0</p>");
