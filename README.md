@@ -66,10 +66,10 @@ When using ET-Crypto over RF, operators **must**:
 
 ### Recommended Practice
 
-Use the **destination station's callsign** as the passphrase. This ensures:
+Use the **your callsign** as the passphrase. This ensures:
 
 - The passphrase is inherently public (callsigns are public record)
-- Any licensed amateur can decipher the message by knowing the recipient
+- Any licensed amateur can decipher the message by knowing the sender
 - Full compliance with regulations requiring transmissions not to obscure meaning
 
 ## License
